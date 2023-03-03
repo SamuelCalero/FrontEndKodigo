@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.text-pri1{
+  padding-top: 7px;
+  margin-left: 15px;
+  font-size: 40px;
+  color: #5a5757;
+}
+.text-pri2{
+  margin-left: 15px;
+  font-size: 20px;
+}
+.txt-btn{
+  font-size: 20px;
+}
+a.LinksAdmin{
+  color: #272c31 !important;
+}
+a.LinksAdmin:hover{
+  color: #000000 !important;
+}
+.fondo{
+  background-color: #edede9;
+}
